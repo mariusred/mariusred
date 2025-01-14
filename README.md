@@ -1,4 +1,7 @@
-## Hi there 👋
+## About me: 
+
+- 🔭 I’m currently working on honing my skills in data analytics by taking on my own hands-on projects. 
+- 🌱 I’m currently learning through Google's Advanced Data Analytics Professional series of courses.
 
 <!--
 **mariusred/mariusred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
